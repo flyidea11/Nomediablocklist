@@ -374,3 +374,4 @@
 ||tomshardware.com^
 ||www.msn.com^
 ||www.daydeal.ch^
+||www.lowentalk.com^
