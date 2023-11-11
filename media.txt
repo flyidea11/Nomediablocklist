@@ -375,3 +375,9 @@
 ||www.msn.com^
 ||www.daydeal.ch^
 ||www.lowentalk.com^
+||www.lowendtalk.com^
+||lowendtalk.com^
+||mydealz.de^
+||preispirat.ch^
+||thurgauerzeitung.ch^
+||trustpilot.com^
