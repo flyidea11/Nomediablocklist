@@ -222,8 +222,6 @@
 ||thechive.com^
 ||cracked.com^
 ||distractify.com^
-||giphy.com^
-||imgur.com^
 ||theonion.com^
 ||ifunny.co^
 ||memedroid.com^
@@ -381,3 +379,8 @@
 ||preispirat.ch^
 ||thurgauerzeitung.ch^
 ||trustpilot.com^
+||blackfridaydeals.ch^
+||apfelkiste.ch^
+||windscribe.com^
+||securitytrails.com^
+
