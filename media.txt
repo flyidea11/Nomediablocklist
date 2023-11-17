@@ -383,4 +383,22 @@
 ||apfelkiste.ch^
 ||windscribe.com^
 ||securitytrails.com^
+||apkpure.com^
+||malavida.com^
+||uptodown.com^
+||apkmirror.com^
+||f-droid.org^
+||apkcombo.com^
+||apkmody.io^
+||happymod.com^
+||apkcombo.com^
+||softpedia.com^
+||jojoy.io^
+||softmany.com^
+||apk-dl.com^
+||softsonic.com^
+||blackhatworld.com^
+||babia.to^
+||babiato.info^
+||babiato.tech^
 
